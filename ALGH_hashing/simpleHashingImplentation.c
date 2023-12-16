@@ -11,6 +11,9 @@ typedef struct person
     struct person *next;
 }person;
 
+
+
+
 void initializeNULL(person **peopleList) 
 { 
     for (int i = 0; i < N; ++i) peopleList[i] = NULL; 
