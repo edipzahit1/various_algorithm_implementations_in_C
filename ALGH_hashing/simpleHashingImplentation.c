@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-int N = 10; //hash table size
+int N = 11; //hash table size
 
 typedef struct person
 {
